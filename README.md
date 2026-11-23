@@ -113,7 +113,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=UndefinedDeveloper-404&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=10" height="150" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/UndefinedDeveloper-404/UndefinedDeveloper-404/stats-output/stats.svg" height="150" alt="stats graph" /> <br>
   <img src="https://raw.githubusercontent.com/UndefinedDeveloper-404/UndefinedDeveloper-404/languages-output/languages.svg" height="200" alt="languages graph" /> <br>
   <img src="https://raw.githubusercontent.com/UndefinedDeveloper-404/UndefinedDeveloper-404/trophy-output/trophy.svg" height="150" alt="trophy graph" /> <br>
   <img src="https://raw.githubusercontent.com/UndefinedDeveloper-404/UndefinedDeveloper-404/activity-graph-output/activity-graph.svg" height="150" alt="activity-graph graph"  />
